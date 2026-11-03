@@ -4,7 +4,7 @@
 - **보조 키워드 (설명·태그용):** 유튜브 조회수 올리기, 유튜브 쇼핑, 유튜브 쇼핑 제휴
 - **예상 길이:** 약 6분
 - **핵심 메시지:** 조회수는 관심이고, 매출은 신뢰다. 팔리는 영상은 '볼 사람'이 아니라 '살 사람'을 위해 기획한다.
-- **장표:** [2번 영상 장표 덱](https://claude.ai/artifact/UkQcwo9j7eQC8TQFvAaBgk). 각 장면의 `[S번호]`는 장표 덱의 슬라이드 번호와 같다.
+- **장표:** [텍스트 덱(수정용)](https://claude.ai/artifact/UkQcwo9j7eQC8TQFvAaBgk), [Magnific 이미지 덱](https://claude.ai/artifact/BiahTXWmQkAb4bgXJ9uhoz). 2K 원본 이미지는 Magnific 프로젝트 "뉴타입 2번 영상 장표"에 있다. 각 장면의 `[S번호]`는 장표 덱의 슬라이드 번호와 같다.
 - **근거:** `videos/02-research.md`
 
 ## 녹화 전 확인할 것
