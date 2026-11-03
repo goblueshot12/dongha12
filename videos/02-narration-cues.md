@@ -43,3 +43,14 @@
   - Part B: 2:00–4:14, 장표 S9–S16, 134초. Part B의 시각은 2:00을 0초로 보고 위 큐에서 120초를 뺀 값이다.
 - 각 장표에는 아주 느린 확대 효과(100→104%)를 주고, 장면 사이는 0.3초 크로스페이드로 넘긴다. 무음으로 만든다.
 - 두 파트를 이어 붙인 뒤(video_concatenate), 나레이션 전체를 그 위에 얹는다(video_audio_mix).
+
+## 완성본 (2026-11-03)
+- **최종 영상 (장표 + 나레이션):** [Magnific에서 열기](https://www.magnific.com/app/creation/5jWXlBYKxe)
+  - 4분 14초, 1920×1080, 30fps, H.264와 AAC
+- 무음 장표 영상: [Magnific에서 열기](https://www.magnific.com/app/creation/6AE1GEAiJO)
+- Move 원본: [Part A](https://www.magnific.com/app/move/p/s7eh1z3l8e), [Part B](https://www.magnific.com/app/move/p/s7eh1Yal8e)
+- 검수:
+  - 장면이 바뀌는 시각 앞뒤의 프레임을 모두 확인했고, 16장 모두 큐 시각에 맞게 바뀐다.
+  - 장표 글자가 바뀌지 않았다.
+  - 마지막 1초는 배경색으로 페이드아웃된다.
+  - 소리와 화면이 맞는지는 프레임으로 확인할 수 없어서, 직접 재생해서 확인해야 한다.
