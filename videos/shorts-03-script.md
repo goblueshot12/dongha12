@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=LtExDL42VAc
 
 ## 제작 기록 (Magnific, 2026-11-06)
 - **프로젝트:** Magnific "뉴타입 쇼츠 S3 (AI 상세페이지 두 번)"
-- **나레이션:** ElevenLabs eleven_v4, Seojun Seo, 안정도 0.5, 58초. [Magnific에서 열기](https://www.magnific.com/app/creation/9ZCUSIDNYZ)
+- **나레이션:** ElevenLabs eleven_v4, Seojun Seo, 안정도 0.5, 58초(마지막 슬로건 부분은 완성본에서 잘라냄). [Magnific에서 열기](https://www.magnific.com/app/creation/9ZCUSIDNYZ)
   - TTS가 정확히 읽도록 'AI' → '에이아이', '10,000mAh' → '만 밀리암페어'로 풀어 썼다. 화면 자막은 원래 표기를 쓴다.
 - **화면:** Magnific Move, 9:16, 58초, 무음. [Move에서 열기](https://www.magnific.com/app/move/p/ksTuuTE16B)
 - **조립:** 무음 화면 위에 나레이션을 얹는다(video_audio_mix).
@@ -121,8 +121,8 @@ https://www.youtube.com/watch?v=LtExDL42VAc
 | 0:40 | 장면 = 고를 이유 / 숫자 = 증거 | 그렇다고 숫자를 |
 | 0:47 | 댓글 유도 | 내 상품의 숫자 하나를 |
 
-### 완성본 (2026-11-06)
-- **완성 영상 (화면 + 나레이션, 58초, 9:16):** [Magnific에서 열기](https://www.magnific.com/app/creation/9ZCwiZLNYZ)
-- 무음 화면 MP4: [Magnific에서 열기](https://www.magnific.com/app/creation/vQiBffPa47)
-- 프레임 검수: 장면 순서·타이밍이 큐와 맞고, A·B 카드 문구가 ChatGPT 원문과 일치한다.
-  A 장면의 빨간 동그라미가 '10,000mAh의 넉넉한 용량'보다 조금 넓게(윗줄 '가벼운 무게에'까지) 그려졌다.
+### 완성본 (2026-11-06, 슬로건 제거판)
+- **완성 영상 (화면 + 나레이션, 52초, 9:16):** [Magnific에서 열기](https://www.magnific.com/app/creation/3zFymblREY)
+- Move 버전 기록: v1 첫 생성 → v2 가운데 정렬(내용이 왼쪽으로 쏠림) → v3 빨간 동그라미가 '1'을 가려 "$0,000"처럼 보이던 것 수정 → v4 슬로건 장면 삭제(53초).
+- 나레이션은 58초 원본을 그대로 얹고 52.2초에서 잘랐다. 슬로건 음성은 52.24초부터 시작하므로 완성본에는 들어가지 않는다.
+- 이전 판(슬로건 포함, 58초)은 쓰지 않는다.
