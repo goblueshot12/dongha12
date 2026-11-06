@@ -122,3 +122,9 @@ https://www.youtube.com/watch?v=LtExDL42VAc
 | 0:40 | 장면 = 고를 이유 / 숫자 = 증거 | 그렇다고 숫자를 |
 | 0:47 | 댓글 유도 | 내 상품의 숫자 하나를 |
 | 0:52 | 클로징 | 올드타입은 |
+
+### 완성본 (2026-11-06)
+- **완성 영상 (화면 + 나레이션, 58초, 9:16):** [Magnific에서 열기](https://www.magnific.com/app/creation/9ZCwiZLNYZ)
+- 무음 화면 MP4: [Magnific에서 열기](https://www.magnific.com/app/creation/vQiBffPa47)
+- 프레임 검수: 장면 순서·타이밍이 큐와 맞고, A·B 카드 문구가 ChatGPT 원문과 일치한다.
+  A 장면의 빨간 동그라미가 '10,000mAh의 넉넉한 용량'보다 조금 넓게(윗줄 '가벼운 무게에'까지) 그려졌다.
