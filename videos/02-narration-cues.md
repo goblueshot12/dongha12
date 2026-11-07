@@ -88,3 +88,11 @@
   - 영상 길이를 한 곡으로 덮을 수 없어서, 2:00("두 번째." 시작)에서 영상을 나눠 같은 곡을 앞뒤에 각각 깔았다. 그래서 2:00에서 음악이 처음부터 다시 시작된다.
   - 음악 볼륨은 12%, 나레이션은 100%다.
 - 음악을 마지막에 서서히 줄이는 처리(페이드아웃)는 하지 않았다. 영상이 끝날 때 음악도 같이 끊긴다.
+
+## 썸네일 시안 (2026-11-07, Magnific Nano Banana 2.1, 장당 65크레딧)
+- A-1 숫자 대비형, 은은한 차트: https://www.magnific.com/app/creation/ovPuCl0829
+- **A-2 숫자 대비형, 굵은 막대 (1순위 추천):** https://www.magnific.com/app/creation/8a4QEgdIrU
+- **B-1 뒤집기형, 큰 눈 아이콘 (A/B 테스트 상대로 추천):** https://www.magnific.com/app/creation/mE6qFJvhJQ
+- B-2 뒤집기형, 한 줄 카운터: https://www.magnific.com/app/creation/yiaAZoAPW9
+- 4장 모두 글자가 정확하다. vidIQ 썸네일 점수는 Magnific 이미지 주소를 받지 않아 매기지 못했다.
+- 업로드할 때: YouTube 썸네일은 2MB 이하여야 하므로, Magnific에서 JPG로 받거나 1280×720으로 줄여서 올린다.
