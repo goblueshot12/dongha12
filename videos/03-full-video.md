@@ -197,3 +197,32 @@
 
 ## Move 편집본
 - [Part 1](https://www.magnific.com/app/move/p/ksDVlYL16B) · [Part 2](https://www.magnific.com/app/move/p/Bh4yv28oQR) · [Part 3](https://www.magnific.com/app/move/p/aF2RHaCfSh) · [Part 4](https://www.magnific.com/app/move/p/bxTcLJe5Y2) (각 예상 약 420크레딧)
+## 완성본 v1 (2026-11-14)
+- **최종 영상:** [Magnific에서 열기](https://www.magnific.com/app/creation/lJ8BR76gv9) · 10분 57초, 1920×1080, 30fps
+  - 도입부(61초) + Part 1(171초) + Part 2(138초) + Part 3(172초) + Part 4(115초)를 이어 붙였다(video_concatenate).
+- 파트별 렌더: [도입부](https://www.magnific.com/app/creation/rgeWkM6xtc) · [Part 1](https://www.magnific.com/app/creation/fHAZ1XuCDY) · [Part 2](https://www.magnific.com/app/creation/XmPOEc1Bfo) · [Part 3](https://www.magnific.com/app/creation/Syt8i13Ub8) · [Part 4](https://www.magnific.com/app/creation/mE36KDzhJQ)
+- 검수 (화면 프레임만 확인, 소리는 직접 들어봐야 함):
+  - 파트마다 14개 시점을 봤다. 장면이 자막 큐에 맞게 바뀌고, 한글 오타는 보이지 않았다.
+  - 비교 채널은 A채널·B채널로만 나온다. 댓글은 이름 없이 다시 그렸고 출처를 붙였다.
+  - 이어 붙인 네 지점(1:01, 3:52, 6:10, 9:02) 앞뒤 화면이 자연스럽게 넘어간다.
+- 눈에 띈 작은 점:
+  - Part 4 클로징 막대그래프(10:40 무렵)에서 왕관이 잠깐 늦게 나온다.
+  - Part 3 '리뷰 15분' 막대는 숫자가 올라가는 중간(13분)에 화면이 바뀌는 순간이 있다.
+  - 자막 크기는 도입부와 같다(작은 편).
+
+## 설명란 챕터 (완성본 기준)
+```
+00:00 조회수 꼴찌가 공구 1위?
+01:01 살림 채널 3곳 숫자 비교
+02:02 공구 장치는 다 똑같다
+02:40 구경 → 추천 → 판단
+03:33 뽀큐트의 인벤토리 열기
+03:52 아이템① '사지 마세요'
+05:15 아이템② 기준표·등급표
+06:10 아이템③ 3년 뒤 해명 영상
+07:52 아이템④ 알림 → 라이브 동선
+09:02 히든 아이템⑤ 시장 감시자
+09:41 왜 비싼 물건에서 터질까
+10:07 내 상세페이지에 장착하기
+10:40 마무리
+```
